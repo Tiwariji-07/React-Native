@@ -24,7 +24,7 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 ## Backend
-  You can get the Host the RestAPI's locally from 
+  You can Host the RestAPI's locally from 
   -[Backend](https://github.com/Tiwariji-07/ecommerce-backend)
 
 
