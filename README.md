@@ -24,11 +24,11 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 ## Backend
-   set EXPO_PUBLIC_BASE_URL = ```ecommerce-backend-production-aa3f.up.railway.app``` 
+   set EXPO_PUBLIC_BASE_URL = ```ecommerce-backend-production-aa3f.up.railway.app``` in .env file
    ### Or
   You can Host the RestAPI's locally from 
   -[Backend](https://github.com/Tiwariji-07/ecommerce-backend)
-  Set EXPO_PUBLIC_BASE_URL = ```localhost:3000```
+  and Set EXPO_PUBLIC_BASE_URL = ```localhost:3000```
 
 
 
